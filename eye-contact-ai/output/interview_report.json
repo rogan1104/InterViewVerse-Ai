@@ -1,0 +1,25 @@
+{
+    "candidate": {
+        "name": "Unknown",
+        "duration": 5
+    },
+    "metrics": {
+        "eye_contact": 87.6,
+        "looking_away": 12.4,
+        "blink_count": 5,
+        "engagement": 87.6,
+        "longest_distraction": 0.2
+    },
+    "timeline": [],
+    "scorecard": {
+        "Eye Contact": "\u2605\u2605\u2605\u2605\u2606",
+        "Attention Stability": "\u2605\u2605\u2605\u2605\u2606",
+        "Distraction Control": "\u2605\u2605\u2605\u2605\u2606",
+        "Blink Behaviour": "\u2605\u2605\u2605\u2606\u2606"
+    },
+    "summary": [
+        "Excellent eye contact maintained throughout the interview.",
+        "Blink frequency was slightly lower than expected.",
+        "Overall visual engagement was high."
+    ]
+}
